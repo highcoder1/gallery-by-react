@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+html,body{
+  height: 100%;
+  width: 100%;
+  background-color: #222;
+}
+
+.container{
+  width: 100%;
+  height: 100%;
+}
+
+/*图片放置区域+导航条区域*/
+.stage{
+  position: relative;
+  width: 100%;
+  height: 680px;
+}
+
+/*图片区域*/
+.img-sec{
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background-color: #ddd;
+}
+
+/*导航按钮条*/
+.controller-sec{
+  position: absolute;
+  left: 0;
+  bottom: 30px;
+  z-index: 101;
+  width: 100%;
+  text-align: center;
+}
