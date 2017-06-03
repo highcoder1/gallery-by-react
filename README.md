@@ -1,3 +1,4 @@
 # gallery-by-react
 A photo gallery project based on react.
-根据慕课网《React打造图片画廊应用》实践完成
+
+在慕课网《React打造图片画廊应用》教程的基础上稍加修改，采用React+webpack2.×+ES6+sass完成
